@@ -15,6 +15,7 @@
     <modules>
         <module>speed-charge-pay-service</module>
         <module>speed-charge-user-service</module>
+        <module>speed-charge-open-service</module>
     </modules>
 
     <properties>
