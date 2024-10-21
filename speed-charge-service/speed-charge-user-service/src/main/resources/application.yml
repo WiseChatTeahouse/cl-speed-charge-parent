@@ -1,2 +1,7 @@
 server:
   port: 7910
+speed:
+  charge:
+    openapi:
+      title: 用户微服务API
+      description: 用户微服务
